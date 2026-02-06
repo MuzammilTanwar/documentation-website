@@ -2,7 +2,7 @@
 
 This project is a static landing page built using **HTML and CSS** as part of the **Chaicode Web Development Cohort 2026**.
 
-The goal of this assignment was to practice real world frontend layout, spacing, typography, and visual hierarchy without using any frameworks or JavaScript, while trying to make a cursor inspired landing page.
+The goal of this assignment was to practice real world frontend layout, spacing, typography, and visual hierarchy without using any frameworks or JavaScript, while trying to make a Mintlify inspired landing page.
 
 ---
 
@@ -15,12 +15,13 @@ The goal of this assignment was to practice real world frontend layout, spacing,
 
 # Live Link
 
-Please visit this link here to check the vercel deployment of this project. [Here](https://dev-tool-landing-page-c9t9.vercel.app)
+Please visit this link here to check the vercel deployment of this project. [Here](https://documentation-website-skvr.vercel.app/)
 
 
 ## Preview
 
-![Landing Page Preview](dev-tool-landing-page/assets/Screenshot%202026-02-06%20054004.png)
+![Landing Page Preview](https://raw.githubusercontent.com/MuzammilTanwar/documentation-website/main/documentation-website/assets/demo.png)
+
 
 
 
